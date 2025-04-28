@@ -65,7 +65,7 @@ const LandingPage = () => {
         </CarouselContent>
       </Carousel>
 
-      <img src="/banner.png" className="w-full" />
+      <img src="/1703848338.jpg" className="w-full" />
 
       <section className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <Card>
